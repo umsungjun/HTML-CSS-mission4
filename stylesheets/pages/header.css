@@ -202,7 +202,7 @@
 }
 
 .linkBox a {
-    margin-left: 24px;
+    padding: 6px 12px;
 }
 
 .is--active::after {
